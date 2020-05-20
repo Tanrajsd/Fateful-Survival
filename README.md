@@ -1,7 +1,7 @@
 
 ![](Documentation/tantech.png)
 
-#  FateFul Survival
+#  Fateful Survival
  
 
 ## About the application
